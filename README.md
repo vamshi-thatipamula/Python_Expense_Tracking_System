@@ -171,7 +171,7 @@ Log in to MySQL and create a new database:
 
     CREATE DATABASE your_database;
 
-You must create the required database table in MySQL before running the application, as the backend does not automatically generate database schema.
+You must create the required `database` table in MySQL before running the application, as the backend does not automatically generate database schema.
 
 #### 3.2 Update Database Credentials
 Open the following file:
@@ -187,7 +187,7 @@ Update your MySQL connection details:
     database="your_database"
     )
 
-**Note:** Replace **your_password** with your local MySQL password before running the application.
+**Note:** Replace `your_password` with your local MySQL password before running the application.
 
 #### 3.3 Start MySQL Service
 Ensure that your MySQL server is running locally, otherwise the backend API will not be able to connect to the database.
@@ -236,6 +236,7 @@ The **Expense Management System** is a complete full-stack application that demo
 This project showcases strong skills in full-stack development, backend engineering, and data-driven visualization.
 
 ---
+
 
 
 
