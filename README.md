@@ -89,7 +89,7 @@ This project is created strictly for educational and portfolio demonstration pur
   - tests_frontend/
     - (Reserved for future frontend tests)
 
-- Images/ # Project screenshots
+- images/ # Project screenshots
 
 - requirements.txt # Project dependencies
 
@@ -132,16 +132,16 @@ The frontend includes 4 main functional components:
 ## 7. Project Screenshots
 
 ### Add & Update Expenses
-![Add Update Page](Images/add_update_frontend.png)
+![Add Update Page](images/add_update_frontend.png)
 
 ### Category Analytics
-![Category Analytics](Images/analytics_by_category.png)
+![Category Analytics](images/analytics_by_category.png)
 
 ### Monthly Expense Trends
-![Monthly Summary](Images/analytics_by_months.png)
+![Monthly Summary](images/analytics_by_months.png)
 
 ### Analytics Dashboard
-![Dashboard Preview](Images/analytics_dashboard.png)
+![Dashboard Preview](images/analytics_dashboard.png)
 
 ---
 
@@ -236,6 +236,7 @@ The **Expense Management System** is a complete full-stack application that demo
 This project showcases strong skills in full-stack development, backend engineering, and data-driven visualization.
 
 ---
+
 
 
 
