@@ -171,7 +171,7 @@ Log in to MySQL and create a new database:
 
     CREATE DATABASE your_database;
 
-You must create the required **expenses** table before running the project.
+You must create the required database table in MySQL before running the application, as the backend does not automatically generate database schema.
 
 #### 3.2 Update Database Credentials
 Open the following file:
@@ -236,6 +236,7 @@ The **Expense Management System** is a complete full-stack application that demo
 This project showcases strong skills in full-stack development, backend engineering, and data-driven visualization.
 
 ---
+
 
 
 
