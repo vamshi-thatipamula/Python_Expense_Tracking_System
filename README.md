@@ -73,27 +73,27 @@ This project is created strictly for educational and portfolio demonstration pur
 
 ### Expense_Management_System/
 - Backend/
-  - db_helper.py # Database connection and queries
-  - logging_setup.py # Logging configuration
-  - server.py # FastAPI backend server
-  - server.log # Generated log file (ignored in GitHub)
+  - db_helper.py               # Database connection and queries
+  - logging_setup.py           # Logging configuration
+  - server.py                  # FastAPI backend server
+  - server.log                 # Generated log file (ignored in GitHub)
   - tests_backend/
-    - test_db_helper.py # Backend unit tests
+    - test_db_helper.py        # Backend unit tests
     
 - Frontend/
-  - app.py # Main Streamlit entry point
-  - add_update.py # Add & update expenses module
-  - analytics_by_category.py # Category-wise analytics module
-  - analytics_by_months.py # Monthly-wise analytics module
-  - analytics_dashboard.py # Advanced dashboard module
+  - app.py                     # Main Streamlit entry point
+  - add_update.py              # Add & update expenses module
+  - analytics_by_category.py   # Category-wise analytics module
+  - analytics_by_months.py     # Monthly-wise analytics module
+  - analytics_dashboard.py     # Advanced dashboard module
   - tests_frontend/
     - (Reserved for future frontend tests)
 
-- images/ # Project screenshots
+- images/                      # Project screenshots
 
-- requirements.txt # Project dependencies
+- requirements.txt             # Project dependencies
 
-- README.md # Project documentation
+- README.md                    # Project documentation
 
 ### 5.2 Project Workflow
 
@@ -236,6 +236,7 @@ The **Expense Management System** is a complete full-stack application that demo
 This project showcases strong skills in full-stack development, backend engineering, and data-driven visualization.
 
 ---
+
 
 
 
