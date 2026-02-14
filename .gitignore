@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit Cache Files
+.streamlit/
+
+# Logs
+*.log
+
+# macOS System Files
+.DS_Store
+
+# Pytest Cache
+.pytest_cache/
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+
+# MySQL / Local Database Dumps
+*.sql
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
